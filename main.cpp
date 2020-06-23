@@ -1,10 +1,8 @@
 #include <iostream>
-#include "src/algorithm/sort/SelectionSort.h"
-
+#include "src/hard/RegularExpressionMatching_10.h"
 int main() {
     using namespace std;
-    auto ss = SelectionSort();
-    ss.test();
+    RegularExpressionMatching_10::test();
     return 0;
 }
 
