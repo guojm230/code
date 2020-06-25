@@ -1,8 +1,9 @@
 #include <iostream>
-#include "src/hard/RegularExpressionMatching_10.h"
+#include <cstdio>
+#include "src/pat/A_Plus_B_For_Polynomials_2.h"
 int main() {
     using namespace std;
-    RegularExpressionMatching_10::test();
+    A_Plus_B_For_Polynomials_2().main();
     return 0;
 }
 
