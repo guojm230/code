@@ -11,7 +11,7 @@
 *其它坑：
 * 1.比较浮点数大小不能直接用==，要采用精度误差来处理。
 */
-class A_Plus_B_For_Polynomials_2 {
+class PAT_2_A_Plus_B_For_Polynomials {
 public:
 	int main() {
 		using namespace std;

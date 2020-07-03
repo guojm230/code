@@ -6,7 +6,7 @@
 #define LEETCODE_A_PLUS_B_FORMAT_1_H
 #include <iostream>
 #include <stack>
-class A_Plus_B_Format_1{
+class PAT_1_A_Plus_B_Forma{
 public:
     static int main(){
         using namespace std;

@@ -1,10 +1,9 @@
 #include <iostream>
-#include <cstdio>
-#include "src/pat/A_Plus_B_For_Polynomials_2.h"
-int main() {
+#include <queue>
+#include "src/pat/PAT_6_SignIn_And_SignOut.h"
+int main(){
     using namespace std;
-    A_Plus_B_For_Polynomials_2().main();
+    PAT_6_SignIn_And_SignOut::main();
     return 0;
 }
-
 

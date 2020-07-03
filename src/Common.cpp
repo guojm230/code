@@ -24,7 +24,7 @@ void sortTest(const void (*sort)(int*,int)){
     for (int i = 1; i < 100; ++i) {
         default_random_engine e(i);
         int length = i;
-        int array[length];
+        int *array = new int[length];
         for (int j = 0; j < length; ++j) {
             array[j] = u(e);
         }
