@@ -1,9 +1,9 @@
 #include <iostream>
 #include <queue>
-#include "src/pat/PAT_6_SignIn_And_SignOut.h"
+#include "src/pat/PAT_8_Elevator.h"
 int main(){
     using namespace std;
-    PAT_6_SignIn_And_SignOut::main();
+    PAT_8_Elevator::main();
     return 0;
 }
 

@@ -48,5 +48,4 @@ namespace PAT_5_Spell_It_Right {
 			num[position] += number;
 		}
 	}
-
 }
